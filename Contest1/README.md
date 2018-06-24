@@ -4,10 +4,6 @@ A band of #Rebel #DLT #Developers devoted to disruptive applications of the #Blo
 
 *We work for a token here, a token there. We work for fun.*
 
-## Contests
-
-### NEO-NATION The #BestOfTheBest #TripleD Programming Contest #1
-
-Click [here](./Contest1) to see the [Contest 1 Entries](./Contest1)
+## NEO-NATION The #BestOfTheBest #TripleD Programming Contest #1
 
 *We work for a token here, a token there. We work for fun.*
