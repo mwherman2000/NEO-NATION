@@ -16,6 +16,6 @@ Full description of the contest: https://www.linkedin.com/pulse/announcement-neo
 ## Resources
 
 * [SerentityData Compiler, Runtime, Graph, and Digital Ledger Standards Project (serentitydata)](https://github.com/mwherman2000/serentitydata/blob/master/README.md)
-* [Best way to store secure, immutable, auditable, historized, permanent data stored on a blockchain?](https://medium.com/@mwherman2000/best-way-to-store-secure-immutable-auditable-historized-permanent-data-stored-on-the-69a874ee17c)
+* [Best way to store secure, immutable, auditable, historized, permanent data on a blockchain?](https://medium.com/@mwherman2000/best-way-to-store-secure-immutable-auditable-historized-permanent-data-stored-on-the-69a874ee17c)
 
 *We work for a token here, a token there. We work for fun.*
